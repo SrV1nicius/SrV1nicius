@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrV1nicius
+- 👋 Hi, I’m @V1nicius
 - 👀 I’m interested in learn more about technology.
 - 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate to help me learn more and more.
