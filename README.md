@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V1nicius
+- 👋 Hi, I’m @V1nicius. Thanks for visiting my profile.
 - 👀 I’m interested in learn more about technology.
 - 🌱 I’m currently learning backend development.
 - 💞️ I'm an open book, ready for more and more
