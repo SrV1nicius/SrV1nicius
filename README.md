@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V1nicius. Thanks for visiting my profile.
 - 👀 Technology is my fascination.
-- 🌱 I’m currently learning backend development.
+- 🌱 I’m currently learning frontend development.
 - 📫 Would you like to contact me? Send me a email vinicius_argemiro@outlook.pt.
 
 <!---
